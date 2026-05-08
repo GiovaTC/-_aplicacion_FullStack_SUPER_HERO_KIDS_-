@@ -66,4 +66,4 @@ async function eliminarHeroe(id) {
     listarHeroes();
 }
 
-listarHeroes(); 
+listarHeroes();
