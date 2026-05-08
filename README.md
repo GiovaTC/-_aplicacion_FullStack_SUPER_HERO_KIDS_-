@@ -3,8 +3,8 @@ Java + HTML + CSS + JavaScript + Oracle 19c:
 
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/2b21c1cc-bdec-4878-ba8f-f6863dd372ba" />
 
-<img width="2555" height="1079" alt="image" src="https://github.com/user-attachments/assets/15abfc40-5c85-4dbf-af00-10513e178535" />    
-
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/4ce3b03d-6386-4a55-a63c-39767889d993" />    
+    
 <img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/a004ac33-b89f-4dbf-baac-da0da5bef7eb" />    
 
 ```
