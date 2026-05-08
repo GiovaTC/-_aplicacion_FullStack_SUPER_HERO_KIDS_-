@@ -25,4 +25,4 @@ public class SuperHeroeService {
     public void eliminar(Long id) {
         repository.deleteById(id);
     }
-}   
+}
