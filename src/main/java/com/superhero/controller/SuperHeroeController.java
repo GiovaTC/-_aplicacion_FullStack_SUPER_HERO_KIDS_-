@@ -32,4 +32,4 @@ public class SuperHeroeController {
     public void eliminar(@PathVariable Long id) {
         service.eliminar(id);
     }
-}   
+}
